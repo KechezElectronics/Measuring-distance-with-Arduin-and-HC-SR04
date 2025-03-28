@@ -50,7 +50,7 @@ The HC-SR04 sensor emits ultrasonic waves that bounce back when they hit an obje
 
 Step 1: Clone the Repository
 
-git clone https://github.com/<your-username>/<repository-name>.git
+[git clone https://github.com/<your-username>/<repository-name>.git](https://github.com/KechezElectronics/Measuring-distance-with-Arduin-and-HC-SR04)
 
 Step 2: Open the Project
 
